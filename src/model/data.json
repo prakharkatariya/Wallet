@@ -1,0 +1,40 @@
+[
+    {
+        "username": "alex@gmail.com",
+        "password": "alex",
+        "PAN" : "CJFGP1234D",
+        "transactions": [
+            {
+                "tid": 1001,
+                "amount": 5000,
+                "transactionType": "paying bill",
+                "tDate": "2018-11-01"
+            },
+            {
+                "tid": 1003,
+                "amount": 1000,
+                "transactionType": "buy coupons",
+                "tDate": "2018-10-12"
+            }
+        ]
+    },
+    {
+        "username": "johndoe@gmail.com",
+        "password": "johndoe",
+        "PAN" : "KJFGD1784C",
+        "transactions": [
+            {
+                "tid": 1002,
+                "amount": 3000,
+                "transactionType": "paying bill",
+                "tDate": "2018-10-28"
+            }
+        ]
+    },
+    {
+        "username": "mercy@gmail.com",
+        "password": "mercy",
+        "PAN" : "CLEGP9834L",
+        "transactions": []
+    }
+]
